@@ -1,6 +1,6 @@
 {
 	"Name": "Street League",
-	"Version": 1783041181,
+	"Version": 1783435106,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -153,6 +153,10 @@
 				],
 				[
 					"65",
+					"67"
+				],
+				[
+					"58",
 					"67"
 				]
 			],
@@ -2884,9 +2888,15 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8",
+				"65",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"76"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
