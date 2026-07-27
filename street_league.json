@@ -1,6 +1,6 @@
 {
 	"Name": "Street League",
-	"Version": 1783451806,
+	"Version": 1785110896,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -156,6 +156,10 @@
 				],
 				[
 					"65",
+					"67"
+				],
+				[
+					"58",
 					"67"
 				]
 			],
