@@ -1,6 +1,6 @@
 {
 	"Name": "Street League",
-	"Version": 1785110896,
+	"Version": 1786463449,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -161,6 +161,10 @@
 				[
 					"58",
 					"67"
+				],
+				[
+					"38",
+					"80"
 				]
 			],
 			"KillerComboPerkBans": []
@@ -372,9 +376,9 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -2093,9 +2097,9 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2588,9 +2592,9 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -2804,9 +2808,9 @@
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -2892,9 +2896,14 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"76"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
