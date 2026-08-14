@@ -1,6 +1,6 @@
 {
 	"Name": "Street League",
-	"Version": 1786463449,
+	"Version": 1786746364,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -883,9 +883,9 @@
 		{
 			"Name": "The Hag",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -2171,7 +2171,7 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"0"
 			],
@@ -3455,9 +3455,9 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
