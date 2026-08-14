@@ -1,12 +1,372 @@
 {
-	"Name": "",
-	"Version": 1786685291,
+	"Name": "Street League",
+	"Version": 1786463449,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"306",
+				"0",
+				"285",
+				"5",
+				"6",
+				"52",
+				"7",
+				"258",
+				"11",
+				"13",
+				"16",
+				"17",
+				"18",
+				"247",
+				"19",
+				"20",
+				"73",
+				"22",
+				"23",
+				"25",
+				"60",
+				"301",
+				"28",
+				"286",
+				"288",
+				"312",
+				"33",
+				"108",
+				"303",
+				"46",
+				"49",
+				"51",
+				"294",
+				"262",
+				"55",
+				"274",
+				"252",
+				"59",
+				"289",
+				"62",
+				"313",
+				"64",
+				"66",
+				"70",
+				"269",
+				"74",
+				"295",
+				"77",
+				"79",
+				"81",
+				"82",
+				"83",
+				"84",
+				"86",
+				"88",
+				"90",
+				"96",
+				"99",
+				"100",
+				"103",
+				"275",
+				"105",
+				"106",
+				"110",
+				"263",
+				"113",
+				"260",
+				"114",
+				"302",
+				"116",
+				"305",
+				"290",
+				"287",
+				"119",
+				"120",
+				"122",
+				"126",
+				"304",
+				"128",
+				"254",
+				"314",
+				"130"
+			],
+			"KillerIndvPerkBans": [
+				"131",
+				"133",
+				"134",
+				"136",
+				"245",
+				"138",
+				"147",
+				"149",
+				"150",
+				"153",
+				"154",
+				"155",
+				"163",
+				"244",
+				"168",
+				"169",
+				"171",
+				"173",
+				"174",
+				"175",
+				"299",
+				"177",
+				"178",
+				"180",
+				"183",
+				"264",
+				"185",
+				"186",
+				"265",
+				"256",
+				"195",
+				"161",
+				"204",
+				"278",
+				"205",
+				"208",
+				"284",
+				"211",
+				"212",
+				"216",
+				"218",
+				"209",
+				"223",
+				"225",
+				"227",
+				"235",
+				"238",
+				"293",
+				"242"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"78",
+					"36"
+				],
+				[
+					"80",
+					"36"
+				],
+				[
+					"67",
+					"76"
+				],
+				[
+					"65",
+					"67"
+				],
+				[
+					"58",
+					"67"
+				],
+				[
+					"38",
+					"80"
+				]
+			],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 1",
+			"SurvivorIndvPerkBans": [
+				"98"
+			],
+			"KillerIndvPerkBans": [
+				"132",
+				"170",
+				"151"
+			],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			]
+		},
+		{
+			"Name": "Tier 2",
+			"SurvivorIndvPerkBans": [
+				"21",
+				"34",
+				"38",
+				"279",
+				"43",
+				"280",
+				"261",
+				"69",
+				"76",
+				"80",
+				"89",
+				"296",
+				"102",
+				"109",
+				"253",
+				"121",
+				"124",
+				"127",
+				"36"
+			],
+			"KillerIndvPerkBans": [
+				"170"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"50",
+					"92"
+				]
+			],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			]
+		},
+		{
+			"Name": "Tier 3",
+			"SurvivorIndvPerkBans": [
+				"1",
+				"21",
+				"24",
+				"246",
+				"273",
+				"34",
+				"38",
+				"39",
+				"279",
+				"43",
+				"280",
+				"44",
+				"261",
+				"308",
+				"50",
+				"54",
+				"57",
+				"61",
+				"69",
+				"76",
+				"80",
+				"89",
+				"95",
+				"296",
+				"92",
+				"102",
+				"109",
+				"253",
+				"121",
+				"124",
+				"127",
+				"36"
+			],
+			"KillerIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 4",
+			"SurvivorIndvPerkBans": [
+				"1",
+				"300",
+				"8",
+				"21",
+				"24",
+				"246",
+				"27",
+				"273",
+				"34",
+				"38",
+				"39",
+				"279",
+				"43",
+				"280",
+				"44",
+				"261",
+				"307",
+				"308",
+				"50",
+				"54",
+				"57",
+				"61",
+				"65",
+				"69",
+				"72",
+				"76",
+				"80",
+				"89",
+				"95",
+				"296",
+				"92",
+				"102",
+				"107",
+				"109",
+				"112",
+				"253",
+				"118",
+				"121",
+				"124",
+				"127",
+				"36"
+			],
+			"KillerIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"KillerComboPerkBans": []
+		},
+		{
+			"Name": "Tier 5",
+			"SurvivorIndvPerkBans": [
+				"1",
+				"300",
+				"8",
+				"21",
+				"24",
+				"246",
+				"27",
+				"273",
+				"34",
+				"38",
+				"39",
+				"279",
+				"43",
+				"280",
+				"44",
+				"267",
+				"261",
+				"307",
+				"308",
+				"50",
+				"54",
+				"56",
+				"57",
+				"61",
+				"64",
+				"65",
+				"69",
+				"72",
+				"76",
+				"80",
+				"85",
+				"281",
+				"89",
+				"95",
+				"296",
+				"97",
+				"92",
+				"102",
+				"107",
+				"109",
+				"111",
+				"112",
+				"253",
+				"118",
+				"121",
+				"124",
+				"127",
+				"36"
+			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -18,25 +378,197 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"306",
+				"0",
+				"1",
+				"2",
+				"3",
+				"4",
+				"285",
+				"5",
+				"6",
+				"52",
+				"7",
+				"300",
+				"8",
+				"258",
+				"9",
+				"104",
+				"10",
+				"11",
+				"12",
+				"13",
+				"14",
+				"15",
+				"16",
+				"17",
+				"18",
+				"247",
+				"19",
+				"20",
+				"21",
+				"73",
+				"22",
+				"23",
+				"24",
+				"25",
+				"26",
+				"60",
+				"246",
+				"301",
+				"27",
+				"28",
+				"273",
+				"286",
+				"288",
+				"29",
+				"30",
+				"31",
+				"32",
+				"33",
+				"34",
+				"248",
+				"35",
+				"37",
+				"38",
+				"39",
+				"40",
+				"41",
+				"42",
+				"279",
+				"108",
+				"280",
+				"44",
+				"45",
+				"303",
+				"268",
+				"267",
+				"46",
+				"261",
+				"307",
+				"47",
+				"48",
+				"308",
+				"50",
+				"51",
+				"294",
+				"262",
+				"53",
+				"54",
+				"55",
+				"56",
+				"57",
+				"274",
+				"252",
+				"58",
+				"59",
+				"289",
+				"61",
+				"62",
+				"63",
+				"64",
+				"65",
+				"66",
+				"67",
+				"68",
+				"69",
+				"70",
+				"259",
+				"269",
+				"71",
+				"72",
+				"74",
+				"295",
+				"75",
+				"76",
+				"77",
+				"78",
+				"79",
+				"80",
+				"81",
+				"82",
+				"83",
+				"84",
+				"85",
+				"86",
+				"87",
+				"88",
+				"281",
+				"89",
+				"90",
+				"91",
+				"93",
+				"94",
+				"95",
+				"96",
+				"296",
+				"97",
+				"98",
+				"99",
+				"100",
+				"92",
+				"102",
+				"103",
+				"275",
+				"105",
+				"106",
+				"107",
+				"109",
+				"110",
+				"263",
+				"111",
+				"112",
+				"113",
+				"260",
+				"114",
+				"253",
+				"115",
+				"302",
+				"116",
+				"305",
+				"290",
+				"287",
+				"117",
+				"118",
+				"119",
+				"120",
+				"121",
+				"122",
+				"123",
+				"124",
+				"125",
+				"126",
+				"304",
+				"127",
+				"128",
+				"254",
+				"36",
+				"129",
+				"130"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				18
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -56,26 +588,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Wraith",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -87,7 +625,9 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				37
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -107,48 +647,75 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hillbilly",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				31,
+				3
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"38",
+				"80",
+				"121",
+				"127",
+				"36"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				54
+			],
+			"ItemWhitelist": [
+				10,
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -158,29 +725,38 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nurse",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				0,
+				33
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -189,46 +765,75 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				70,
+				75,
+				76,
+				78,
+				79
+			],
+			"ItemWhitelist": [
+				10,
+				15,
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -240,7 +845,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				86,
+				94
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -260,26 +868,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				"54"
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -291,7 +905,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				115,
+				119
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -311,38 +928,50 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Doctor",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				54,
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				138,
+				139
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -362,45 +991,65 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Huntress",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				158
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -413,26 +1062,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cannibal",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -444,14 +1099,23 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				174
+			],
+			"ItemWhitelist": [
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -464,45 +1128,63 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nightmare",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				196
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -515,28 +1197,34 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -546,7 +1234,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				212,
+				213,
+				215,
+				217,
+				218
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -566,45 +1260,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				8,
+				54
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				224,
+				235,
+				237,
+				238
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -617,48 +1333,91 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Spirit",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				8,
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"10",
+				"246",
+				"38",
+				"58",
+				"63",
+				"67",
+				"68",
+				"78",
+				"80",
+				"115",
+				"124",
+				"36"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"50",
+					"92"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				253,
+				254,
+				255,
+				256,
+				257
+			],
+			"ItemWhitelist": [
+				10,
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -668,45 +1427,62 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"9"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"4"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				265
+			],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -719,45 +1495,68 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Plague",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"53",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				279,
+				281,
+				285,
+				297,
+				298
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -770,26 +1569,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghost Face",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				20
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -801,14 +1606,23 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				318
+			],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -821,38 +1635,48 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Demogorgon",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"123"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				337
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -872,45 +1696,64 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Oni",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				357,
+				358
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -923,26 +1766,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -954,14 +1803,25 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				377,
+				378
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -974,45 +1834,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				382,
+				390,
+				391,
+				392,
+				397
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1025,29 +1907,39 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Blight",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				4,
+				31
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"189",
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1056,65 +1948,128 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				399,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				408,
+				409,
+				410,
+				412,
+				413,
+				414,
+				415,
+				416,
+				417,
+				418
+			],
+			"ItemWhitelist": [
+				10,
+				15,
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"56"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"39",
+				"44",
+				"308",
+				"50",
+				"57",
+				"61",
+				"92"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				428,
+				433,
+				437,
+				438
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1127,45 +2082,68 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				456,
+				455,
+				454,
+				453,
+				458,
+				457
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1178,26 +2156,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1209,14 +2193,25 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				477,
+				478
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1229,45 +2224,65 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101",
+				"70"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				497,
+				498
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1280,45 +2295,64 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				515,
+				518
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1331,26 +2365,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1362,14 +2402,27 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				531,
+				536,
+				537,
+				538
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1382,26 +2435,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dredge",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1413,14 +2472,28 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				548,
+				554,
+				555,
+				557,
+				558
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1433,45 +2506,65 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				0,
+				49
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				577,
+				578
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1484,45 +2577,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				593,
+				594,
+				595,
+				597,
+				598
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1535,26 +2650,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Skull Merchant",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1566,14 +2687,29 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				604,
+				610,
+				613,
+				616,
+				615,
+				617
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1586,26 +2722,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1617,14 +2759,28 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				628,
+				635,
+				636,
+				638,
+				637
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1637,45 +2793,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"42"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				642,
+				654,
+				655,
+				657,
+				658
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1688,45 +2866,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Good Guy",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"56"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"76"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				671,
+				668
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1739,29 +2939,37 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Unknown",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"200"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1770,14 +2978,28 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				689,
+				688,
+				693,
+				698,
+				697
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1790,26 +3012,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Lich",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1821,14 +3049,26 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				716,
+				717,
+				718
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1841,45 +3081,67 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"49"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"246"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				735,
+				736,
+				738
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1892,26 +3154,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"42"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1923,14 +3191,29 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				748,
+				751,
+				753,
+				755,
+				757,
+				758
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1943,29 +3226,37 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghoul",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"49"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1974,14 +3265,28 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				772,
+				773,
+				775,
+				776,
+				778
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1994,45 +3299,65 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				788,
+				792,
+				798
+			],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2045,26 +3370,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2076,14 +3407,27 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				806,
+				812,
+				817,
+				818
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2096,26 +3440,32 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2128,13 +3478,21 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2147,29 +3505,37 @@
 				},
 				"Map": {
 					"Addons": []
-				},
-				"Fog Vial": {
-					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5,
+				2,
+				0,
+				1
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Slasher",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2178,14 +3544,29 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				844,
+				845,
+				846,
+				851,
+				852,
+				855
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2203,8 +3584,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
